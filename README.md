@@ -1,2 +1,2 @@
 # Responsive-Portfolio
-https://kaycfu01.github.io/Bootstrap-Portfolio/
+https://kaycfu01.github.io/Responsive-Portfolio/
